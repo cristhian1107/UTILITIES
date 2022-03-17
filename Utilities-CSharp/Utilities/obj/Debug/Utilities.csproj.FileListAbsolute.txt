@@ -1,0 +1,8 @@
+C:\Users\crist\OneDrive\UTILITIES\Utilities-CSharp\Utilities\bin\Debug\Utilities.exe.config
+C:\Users\crist\OneDrive\UTILITIES\Utilities-CSharp\Utilities\bin\Debug\Utilities.exe
+C:\Users\crist\OneDrive\UTILITIES\Utilities-CSharp\Utilities\bin\Debug\Utilities.pdb
+C:\Users\crist\OneDrive\UTILITIES\Utilities-CSharp\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\UTILITIES\Utilities-CSharp\Utilities\obj\Debug\Utilities.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\OneDrive\UTILITIES\Utilities-CSharp\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\UTILITIES\Utilities-CSharp\Utilities\obj\Debug\Utilities.exe
+C:\Users\crist\OneDrive\UTILITIES\Utilities-CSharp\Utilities\obj\Debug\Utilities.pdb
